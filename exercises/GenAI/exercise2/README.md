@@ -1,16 +1,22 @@
 ---
 id: lead-to-cash-tr
-title: Lead to Cash Troubleshooter
+title: Lead to Cash Troubleshooter by SAP Cloud Application Programming
 description: An exercise using SAP Build Apps and Generative AI
 keywords:
- - sap
- - btp
- - generative ai
- - cloud application programming model
-tags: [genai, azure]
-sidebar_custom_props:
-  category_index: ["azure", "ai"]
+  - sap
+  - btp
+  - generative ai
+  - cloud application programming model
 sidebar_position: 1
+tags:
+  - genai
+  - azure
+draft: false
+unlisted: false
+sidebar_custom_props:
+  category_index:
+    - azure
+    - ai
 ---
 
 # Lead to Cash Troubleshooter
